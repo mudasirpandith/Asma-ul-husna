@@ -28,6 +28,7 @@ body{
 
 .Card:hover{
   border: green solid 1px;
+box-shadow:9px 9px 9px pink;
 }
 @media screen and (min-width: 480px) {
   .Card-h1{
